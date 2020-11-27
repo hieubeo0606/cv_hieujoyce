@@ -442,7 +442,7 @@ li>span {
 
 .skill {
     padding: 100px 0px;
-    background-image: url("http://project.lystra.com.tr/jane/img/skills.jpg");
+    background-image: url("./image/skills.jpg");
     display: flex;
     color: #fff;
     background-size: cover;
@@ -681,7 +681,7 @@ li>span {
 
 .hire-me {
     padding: 100px 0;
-    background-image: url('http://project.lystra.com.tr/jane/img/hire-me.jpg');
+    background-image: url('./images/hire-me.jpg');
 }
 
 .hire-me h2 {
