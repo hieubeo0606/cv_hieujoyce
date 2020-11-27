@@ -27,6 +27,7 @@ body {
 header {
     height: 100vh;
     background-color: rgb(214, 200, 165);
+    background-image: url("./images/theme.jpg");
     position: relative;
     overflow: hidden;
     background-position: relative;
